@@ -1,6 +1,8 @@
 # ocr
 
-Get text from images. Useful for grabbing text from images to add that text back as alt descriptions for those images in social media (which you all should be doing).
+Get text from images.
+
+Useful for grabbing text from images to add that text back as alt descriptions for those images in social media (which you all should be doing).
 
 ## Requirements
 
